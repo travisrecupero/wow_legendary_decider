@@ -1,0 +1,67 @@
+{
+    "members": [
+        {"name": "Maege", "role": "dps", "tenure": "December 2023", "attendance": 100},
+        {"name": "Bremmy", "role": "healer", "tenure": "February 2024", "attendance": 100},
+        {"name": "Bombalabomba", "role": "healer", "tenure": "June 2024", "attendance": 100},
+        {"name": "Holocene", "role": "healer", "tenure": "August 2024", "attendance": 100},
+        {"name": "Holocene", "role": "dps", "tenure": "August 2024", "attendance": 100},
+        {"name": "Darkagony", "role": "dps", "tenure": "October 2024", "attendance": 100},
+        {"name": "Bboyboog", "role": "dps", "tenure": "August 2024", "attendance": 100},
+        {"name": "Derithas", "role": "dps", "tenure": "May 2024", "attendance": 100},
+        {"name": "Starlitmagi", "role": "new dps", "tenure": "November 2024", "attendance": 100},
+        {"name": "Mysticke", "role": "new dps", "tenure": "December 2024", "attendance": 100},
+        {"name": "Droplock", "role": "new dps", "tenure": "December 2024", "attendance": 100},
+        {"name": "Asmondot", "role": "new dps", "tenure": "December 2024", "attendance": 100},
+        {"name": "Poosocks", "role": "new healer", "tenure": "December 2024", "attendance": 100},
+        {"name": "Gisun", "role": "new healer", "tenure": "December 2024", "attendance": 100}
+    ],
+    "parses": {
+        "molten_core_heat_2": {
+            "dps": [
+                {"name": "Maege", "avg": 65.9},
+                {"name": "Derithas", "avg": 48.6},
+                {"name": "Holocene", "avg": 44.5},
+                {"name": "Bboyboog", "avg": 22.9}
+            ],
+            "healers": [
+                {"name": "Bremmy", "avg": 84.3},
+                {"name": "Bombalabomba", "avg": 83.8},
+                {"name": "Holocene", "avg": 65.5}
+            ]
+        },
+        "blackwing_lair_mythic": {
+            "dps": [
+                {"name": "Darkagony", "avg": 95.2},
+                {"name": "Maege", "avg": 83.7},
+                {"name": "Bboyboog", "avg": 81.2},
+                {"name": "Holocene", "avg": 71.6},
+                {"name": "Derithas", "avg": 69.5}
+            ],
+            "healers": [
+                {"name": "Holocene", "avg": 79.8},
+                {"name": "Bremmy", "avg": 70.7},
+                {"name": "Bombalabomba", "avg": 57.2}
+            ]
+        },
+        "temple_of_ahnqiraj_heroic": {
+            "dps": [
+                {"name": "Asmondot", "avg": 89.0},
+                {"name": "Darkagony", "avg": 86.9},
+                {"name": "Maege", "avg": 81.8},
+                {"name": "Droplock", "avg": 73.8},
+                {"name": "Holocene", "avg": 71.4},
+                {"name": "Bboyboog", "avg": 51.7},
+                {"name": "Derithas", "avg": 49.6},
+                {"name": "Mysticke", "avg": 27.8},
+                {"name": "Starlitmagi", "avg": 23.6}
+            ],
+            "healers": [
+                {"name": "Gisun", "avg": 83.4},
+                {"name": "Bremmy", "avg": 82.3},
+                {"name": "Bombalabomba", "avg": 82.0},
+                {"name": "Holocene", "avg": 74.6},
+                {"name": "Poosocks", "avg": 45.3}
+            ]
+        }
+    }
+}
